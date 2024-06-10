@@ -6,7 +6,7 @@ let holidays = ['正月', '成人の日', '建国記念日', '天皇誕生日','
 // for文
 for (let i = 0; i <= holidays.length; i++) {
   i = holidays;
-  console.log(i);
+  console.log(holidays[i]);
 }
 
 // while文
